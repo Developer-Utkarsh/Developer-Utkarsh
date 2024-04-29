@@ -22,6 +22,6 @@ Highly talented Full Stack Web Developer with MERN stack expertise. I develop ex
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Developer-Utkarsh&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Developer-Utkarsh&label=Profile%20Views&color=1&icon=5&pretty=true)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
