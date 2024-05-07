@@ -5,9 +5,12 @@ Highly talented Full Stack Web Developer with MERN stack expertise. I develop ex
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@Utkarsh.tiwari__official#3659) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_utkarshtiwari) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DeveloperUtkarsh) 
 
 <a href="https://app.daily.dev/utkarsh_tiwari"><img src="https://api.daily.dev/devcards/v2/jXPk3y26bbEPy8AptEoGh.png?type=wide&r=m92" width="652" alt="Utkarsh Tiwari's Dev Card"/></a>
+
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@Utkarsh.tiwari__official#3659) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developer_utkarsh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DeveloperUtkarsh) 
+
 
 
 # 💻 Tech Stack:
