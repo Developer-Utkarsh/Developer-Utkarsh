@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 32px height='32px'>, I'm Utkarsh Tiwari </h1>
-<p align="center" font="normal">A passionate frontend developer from India | Skilled MERN Stack Developer | Crafting High-Quality, User-Friendly Web Apps | Passionate About AI Projects That Drive Impact </p>
+<p align="center" font="normal">A passionate Full Stack developer from India | Skilled MERN Stack Developer | Crafting High-Quality, User-Friendly Web Apps | Passionate About AI Projects That Drive Impact </p>
 
 
 <p align="left"> <a href="https://twitter.com/devloperutkarsh" target="blank"><img src="https://img.shields.io/twitter/follow/devloperutkarsh?logo=twitter&style=for-the-badge" alt="devloperutkarsh" /></a> </p>
@@ -23,14 +23,24 @@
 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
 
 ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="32px" height=32px> Connect With Me:
+<div style="display:"flex",
+  ">
 
+<div align="left">
 <a href="https://app.daily.dev/utkarsh_tiwari"><img src="https://api.daily.dev/devcards/v2/jXPk3y26bbEPy8AptEoGh.png?type=wide&r=m92" width="652" alt="Utkarsh Tiwari's Dev Card"/></a>
+  
+</div>
 
+  
+
+<div align="right">
+  
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@Utkarsh.tiwari__official#3659) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developer_utkarsh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DeveloperUtkarsh) 
+</div>
 
-<p align="left"> <a href="https://twitter.com/devloperutkarsh" target="blank"><img src="https://img.shields.io/twitter/follow/devloperutkarsh?logo=twitter&style=for-the-badge" alt="devloperutkarsh" /></a> </p>
-
+<p align="right"> <a href="https://twitter.com/devloperutkarsh" target="blank"><img src="https://img.shields.io/twitter/follow/devloperutkarsh?logo=twitter&style=for-the-badge" alt="devloperutkarsh" /></a> </p>
+</div>
 
 
 <div align="center">
@@ -41,13 +51,19 @@
 <div align="center">
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Developer-Utkarsh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Utkarsh&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Utkarsh&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api?username=Developer-Utkarsh&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Utkarsh&theme=github_dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Utkarsh&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Developer-Utkarsh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Developer-Utkarsh&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 </div>
 
 ---
@@ -57,4 +73,3 @@
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
