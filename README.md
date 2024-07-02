@@ -20,7 +20,6 @@
 - 💬 Ask me about **React JS | NEXT JS | NODE JS | MERN STACK**
 
 - 📫 How to reach me **work.utkarshtiwari@gmail.com**
-<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'>
 
 ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="32px" height=32px> Connect With Me:
 <div style="display:"flex",
