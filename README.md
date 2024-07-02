@@ -63,7 +63,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Developer-Utkarsh&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 </div>
 
 ---
