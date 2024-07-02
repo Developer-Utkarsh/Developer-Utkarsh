@@ -53,8 +53,8 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Developer-Utkarsh&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Utkarsh&theme=github_dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Utkarsh&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Developer-Utkarsh&theme=github_dark&hide_border=false)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
