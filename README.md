@@ -6,11 +6,11 @@
 <p align="center" font="normal">A passionate Full Stack developer from India | Skilled MERN Stack Developer | Crafting High-Quality, User-Friendly Web Apps | Passionate About AI Projects That Drive Impact </p>
 
 
-<p align="left"> <a href="https://twitter.com/devloperutkarsh" target="blank"><img src="https://img.shields.io/twitter/follow/devloperutkarsh?logo=twitter&style=for-the-badge" alt="devloperutkarsh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/devloperutkarsh" target="blank"><img src="https://img.shields.io/twitter/follow/UtkarshTheDev?logo=twitter&style=for-the-badge" alt="devloperutkarsh" /></a> </p>
 
 
 
-- 🔭 I’m currently working on [Nexus - Video Conferencing app](https://meet-nexus.vercel.app/)
+- 🔭 I’m currently working on [GitGenius](https://gitgenius.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://utkarshtiwari.vercel.app/](https://utkarshtiwari.vercel.app/)
 
@@ -22,10 +22,6 @@
 <div style="display:"flex",
   ">
 </div>
-<div align="center">
-<a href="https://app.daily.dev/utkarsh_tiwari"><img src="https://api.daily.dev/devcards/v2/jXPk3y26bbEPy8AptEoGh.png?type=wide&r=m92" width="572" alt="Utkarsh Tiwari's Dev Card"/></a>
-  
-</div>
 
   
 
@@ -35,7 +31,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@Utkarsh.tiwari__official#3659) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developer_utkarsh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DeveloperUtkarsh) 
 </div>
 
-<p align="center"> <a href="https://twitter.com/devloperutkarsh" target="blank"><img src="https://img.shields.io/twitter/follow/devloperutkarsh?logo=twitter&style=for-the-badge" alt="devloperutkarsh" /></a> </p>
+<p align="center"> <a href="https://twitter.com/UtkarshTheDev" target="blank"><img src="https://img.shields.io/twitter/follow/UtkarshTheDev?logo=twitter&style=for-the-badge" alt="UtkarshTheDev" /></a> </p>
 </div>
 
 
@@ -65,5 +61,5 @@
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#
 
