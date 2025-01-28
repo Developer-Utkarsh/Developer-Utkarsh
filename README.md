@@ -6,8 +6,6 @@
 <p align="center" font="normal">A passionate Full Stack developer from India | Skilled MERN Stack Developer | Crafting High-Quality, User-Friendly Web Apps | Passionate About AI Projects That Drive Impact </p>
 
 
-<p align="left"> <a href="https://twitter.com/devloperutkarsh" target="blank"><img src="https://img.shields.io/twitter/follow/UtkarshTheDev?logo=twitter&style=for-the-badge" alt="devloperutkarsh" /></a> </p>
-
 
 
 - 🔭 I’m currently working on [GitGenius](https://gitgenius.vercel.app/)
@@ -16,22 +14,11 @@
 
 - 💬 Ask me about **React JS | NEXT JS | NODE JS | MERN STACK**
   
-<div align="center">
 
-  ## <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="32px" height=32px> Connect With Me:
-<div style="display:"flex",
-  ">
-</div>
 
-  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@Utkarsh.tiwari__official#3659) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developer_utkarsh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/UtkarshTheDev) 
 
-<div align="center">
-  
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@Utkarsh.tiwari__official#3659) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/developer_utkarsh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DeveloperUtkarsh) 
-</div>
-
-<p align="center"> <a href="https://twitter.com/UtkarshTheDev" target="blank"><img src="https://img.shields.io/twitter/follow/UtkarshTheDev?logo=twitter&style=for-the-badge" alt="UtkarshTheDev" /></a> </p>
+<p align=""> <a href="https://twitter.com/UtkarshTheDev" target="blank"><img src="https://img.shields.io/twitter/follow/UtkarshTheDev?logo=twitter&style=for-the-badge" alt="UtkarshTheDev" /></a> </p>
 </div>
 
 
